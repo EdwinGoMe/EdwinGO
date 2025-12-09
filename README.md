@@ -36,7 +36,7 @@ Disfruto trabajar tanto en frontend como backend, desde construir interfaces lla
 ---
 
 ##  Proyectos destacados
-*(Puedes reemplazar o agregar repos cuando quieras)*
+
 
 ###  **FinpApp – Sistema de Finanzas Personales**
 Aplicación para gestionar ingresos, egresos, categorías y movimientos.  
