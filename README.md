@@ -35,17 +35,6 @@ Disfruto trabajar tanto en frontend como backend, desde construir interfaces lla
 
 ---
 
-##  Proyectos destacados
-
-
-###  **FinpApp – Sistema de Finanzas Personales**
-Aplicación para gestionar ingresos, egresos, categorías y movimientos.  
-Enfocada en estructura limpia, validaciones y lógica de negocio.
-
-**Tecnologías:** Java / Console App / POO
-
----
-
 ###  **Landing Page – UX + JavaScript**
 Landing moderna orientada a experiencias de usuario intuitivas y animadas.
 
